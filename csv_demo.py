@@ -1,7 +1,7 @@
 # -*- coding = utf-8 -*-
 # @Time :  2023/3/12/0012 21:15
 # @Author : HeyBro
-# @File : cav_demo.py
+# @File : csv_demo.py
 # @Software : PyCharm
 
 
@@ -18,3 +18,9 @@ from astropy.convolution import convolve
 path1 = r"filder.flider"
 
 list1 = pd.read_csv(path1,sep=',',dtype=float)
+
+
+#  I have some trouble emmmmmm
+#  csv_demo has been packaged to exe 
+#  But I have some trouble 
+#  Aiiiii~~~
