@@ -24,3 +24,8 @@ list1 = pd.read_csv(path1,sep=',',dtype=float)
 #  csv_demo has been packaged to exe 
 #  But I have some trouble 
 #  Aiiiii~~~
+
+#  I have some trouble emmmmmm
+#  csv_demo has been packaged to exe 
+#  But I have some trouble 
+#  Aiiiii~~~
